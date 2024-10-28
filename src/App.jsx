@@ -4,13 +4,14 @@ import Login from './components/Login';
 import Signup from './components/Signup';
 import Profile from './components/Profile';
 import OrderHistory from './components/OrderHistory';
+import Dasboard from './components/Dasboard';
 
 function App() {
 
   const router= createBrowserRouter([
     {
       path:'/',
-      element: <Login/> 
+      element: <Dasboard/> 
     },
     {
       path:'/login',
@@ -23,6 +24,10 @@ function App() {
     {
       path:'/profile',
       element: <Profile/> 
+    },
+    {
+      path:'/Dasboard',
+      element: <Dasboard/> 
     },
     {
       path:'/orderHistory',

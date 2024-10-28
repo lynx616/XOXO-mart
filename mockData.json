@@ -1,0 +1,388 @@
+{
+    "userData":[
+        {
+          "id": 1,
+          "user_name": "jdoe",
+          "user_password": "pass123",
+          "user_full_name": "John Doe",
+          "user_address": "123 Elm Street, Springfield, IL",
+          "user_email_address": "jdoe@example.com"
+        },
+        {
+          "id": 2,
+          "user_name": "asmith",
+          "user_password": "secure456",
+          "user_full_name": "Alice Smith",
+          "user_address": "456 Oak Avenue, Riverside, CA",
+          "user_email_address": "asmith@example.com"
+        },
+        {
+          "id": 3,
+          "user_name": "bwilliams",
+          "user_password": "hunter789",
+          "user_full_name": "Bob Williams",
+          "user_address": "789 Pine Road, Austin, TX",
+          "user_email_address": "bwilliams@example.com"
+        },
+        {
+          "id": 4,
+          "user_name": "cmartinez",
+          "user_password": "pwd12345",
+          "user_full_name": "Carlos Martinez",
+          "user_address": "159 Maple Drive, Orlando, FL",
+          "user_email_address": "cmartinez@example.com"
+        },
+        {
+          "id": 5,
+          "user_name": "dkim",
+          "user_password": "mypassword123",
+          "user_full_name": "Dana Kim",
+          "user_address": "456 Birch Lane, New York, NY",
+          "user_email_address": "dkim@example.com"
+        },
+        {
+          "id": 6,
+          "user_name": "eroberts",
+          "user_password": "roberts321",
+          "user_full_name": "Eva Roberts",
+          "user_address": "102 Cedar Street, Denver, CO",
+          "user_email_address": "eroberts@example.com"
+        },
+        {
+          "id": 7,
+          "user_name": "fjones",
+          "user_password": "password007",
+          "user_full_name": "Frank Jones",
+          "user_address": "202 Cherry Avenue, Phoenix, AZ",
+          "user_email_address": "fjones@example.com"
+        },
+        {
+          "id": 8,
+          "user_name": "ggarcia",
+          "user_password": "garcia678",
+          "user_full_name": "Gabriela Garcia",
+          "user_address": "88 Walnut Street, Seattle, WA",
+          "user_email_address": "ggarcia@example.com"
+        },
+        {
+          "id": 9,
+          "user_name": "hlee",
+          "user_password": "leelover123",
+          "user_full_name": "Henry Lee",
+          "user_address": "77 Palm Boulevard, Miami, FL",
+          "user_email_address": "hlee@example.com"
+        },
+        {
+          "id": 10,
+          "user_name": "iwhite",
+          "user_password": "whiterabbit88",
+          "user_full_name": "Ivy White",
+          "user_address": "300 Willow Way, San Francisco, CA",
+          "user_email_address": "iwhite@example.com"
+        },
+        {
+          "id": 11,
+          "user_name": "jturner",
+          "user_password": "turnerpass",
+          "user_full_name": "Jake Turner",
+          "user_address": "123 Spruce Street, Dallas, TX",
+          "user_email_address": "jturner@example.com"
+        },
+        {
+          "id": 12,
+          "user_name": "kcooper",
+          "user_password": "kc789",
+          "user_full_name": "Katie Cooper",
+          "user_address": "910 Birch Boulevard, Boston, MA",
+          "user_email_address": "kcooper@example.com"
+        },
+        {
+          "id": 13,
+          "user_name": "llopez",
+          "user_password": "lopezpassword",
+          "user_full_name": "Luis Lopez",
+          "user_address": "555 Aspen Road, Charlotte, NC",
+          "user_email_address": "llopez@example.com"
+        },
+        {
+          "id": 14,
+          "user_name": "mmorgan",
+          "user_password": "morgansafe",
+          "user_full_name": "Mia Morgan",
+          "user_address": "303 Vine Avenue, Las Vegas, NV",
+          "user_email_address": "mmorgan@example.com"
+        },
+        {
+          "id": 15,
+          "user_name": "nscott",
+          "user_password": "scott789",
+          "user_full_name": "Nathan Scott",
+          "user_address": "212 Redwood Street, Atlanta, GA",
+          "user_email_address": "nscott@example.com"
+        },
+        {
+          "id": 16,
+          "user_name": "owalker",
+          "user_password": "walkerpass1",
+          "user_full_name": "Olivia Walker",
+          "user_address": "144 Pinehurst Avenue, Houston, TX",
+          "user_email_address": "owalker@example.com"
+        },
+        {
+          "id": 17,
+          "user_name": "pbailey",
+          "user_password": "bailey222",
+          "user_full_name": "Paul Bailey",
+          "user_address": "432 Poplar Drive, Columbus, OH",
+          "user_email_address": "pbailey@example.com"
+        },
+        {
+          "id": 18,
+          "user_name": "rthompson",
+          "user_password": "thompsonpassword",
+          "user_full_name": "Rachel Thompson",
+          "user_address": "98 Magnolia Court, Philadelphia, PA",
+          "user_email_address": "rthompson@example.com"
+        },
+        {
+          "id": 19,
+          "user_name": "sstewart",
+          "user_password": "stewart456",
+          "user_full_name": "Simon Stewart",
+          "user_address": "49 Maplewood Road, Detroit, MI",
+          "user_email_address": "sstewart@example.com"
+        },
+        {
+          "id": 20,
+          "user_name": "ttaylor",
+          "user_password": "taylormade123",
+          "user_full_name": "Tina Taylor",
+          "user_address": "75 Lilac Lane, Nashville, TN",
+          "user_email_address": "ttaylor@example.com"
+        }
+      ],
+      "productData":[
+        {
+          "product_id": 1,
+          "product_name": "Wireless Headphones",
+          "product_description": "High-quality noise-cancelling wireless headphones.",
+          "product_image": "https://example.com/images/headphones.jpg",
+          "product_category": "Electronics",
+          "price": 120.99,
+          "discount": 10,
+          "sold_flag": false,
+          "seller_id": 101
+        },
+        {
+          "product_id": 2,
+          "product_name": "Smartphone Stand",
+          "product_description": "Adjustable and foldable smartphone stand.",
+          "product_image": "https://example.com/images/stand.jpg",
+          "product_category": "Accessories",
+          "price": 14.99,
+          "discount": 5,
+          "sold_flag": true,
+          "seller_id": 102
+        },
+        {
+          "product_id": 3,
+          "product_name": "Bluetooth Speaker",
+          "product_description": "Portable Bluetooth speaker with deep bass.",
+          "product_image": "https://example.com/images/speaker.jpg",
+          "product_category": "Electronics",
+          "price": 49.99,
+          "discount": 15,
+          "sold_flag": false,
+          "seller_id": 103
+        },
+        {
+          "product_id": 4,
+          "product_name": "Yoga Mat",
+          "product_description": "Eco-friendly non-slip yoga mat for all exercises.",
+          "product_image": "https://example.com/images/yogamat.jpg",
+          "product_category": "Fitness",
+          "price": 29.99,
+          "discount": 0,
+          "sold_flag": true,
+          "seller_id": 104
+        },
+        {
+          "product_id": 5,
+          "product_name": "Water Bottle",
+          "product_description": "Insulated stainless steel water bottle.",
+          "product_image": "https://example.com/images/bottle.jpg",
+          "product_category": "Fitness",
+          "price": 19.99,
+          "discount": 10,
+          "sold_flag": false,
+          "seller_id": 105
+        },
+        {
+          "product_id": 6,
+          "product_name": "Wireless Charger",
+          "product_description": "Fast wireless charging pad for compatible devices.",
+          "product_image": "https://example.com/images/charger.jpg",
+          "product_category": "Electronics",
+          "price": 25.99,
+          "discount": 20,
+          "sold_flag": true,
+          "seller_id": 106
+        },
+        {
+          "product_id": 7,
+          "product_name": "Running Shoes",
+          "product_description": "Comfortable and durable running shoes.",
+          "product_image": "https://example.com/images/shoes.jpg",
+          "product_category": "Footwear",
+          "price": 69.99,
+          "discount": 15,
+          "sold_flag": false,
+          "seller_id": 107
+        },
+        {
+          "product_id": 8,
+          "product_name": "Backpack",
+          "product_description": "Water-resistant backpack with multiple compartments.",
+          "product_image": "https://example.com/images/backpack.jpg",
+          "product_category": "Accessories",
+          "price": 35.99,
+          "discount": 5,
+          "sold_flag": true,
+          "seller_id": 108
+        },
+        {
+          "product_id": 9,
+          "product_name": "Gaming Mouse",
+          "product_description": "High-precision gaming mouse with RGB lighting.",
+          "product_image": "https://example.com/images/mouse.jpg",
+          "product_category": "Electronics",
+          "price": 39.99,
+          "discount": 10,
+          "sold_flag": false,
+          "seller_id": 109
+        },
+        {
+          "product_id": 10,
+          "product_name": "Fitness Tracker",
+          "product_description": "Waterproof fitness tracker with heart rate monitor.",
+          "product_image": "https://example.com/images/tracker.jpg",
+          "product_category": "Electronics",
+          "price": 49.99,
+          "discount": 20,
+          "sold_flag": true,
+          "seller_id": 110
+        },
+        {
+          "product_id": 11,
+          "product_name": "Coffee Maker",
+          "product_description": "Compact coffee maker for a perfect brew.",
+          "product_image": "https://example.com/images/coffeemaker.jpg",
+          "product_category": "Kitchen",
+          "price": 89.99,
+          "discount": 15,
+          "sold_flag": false,
+          "seller_id": 111
+        },
+        {
+          "product_id": 12,
+          "product_name": "Table Lamp",
+          "product_description": "LED table lamp with adjustable brightness.",
+          "product_image": "https://example.com/images/lamp.jpg",
+          "product_category": "Home",
+          "price": 24.99,
+          "discount": 5,
+          "sold_flag": true,
+          "seller_id": 112
+        },
+        {
+          "product_id": 13,
+          "product_name": "Laptop Stand",
+          "product_description": "Ergonomic laptop stand with adjustable height.",
+          "product_image": "https://example.com/images/laptopstand.jpg",
+          "product_category": "Accessories",
+          "price": 29.99,
+          "discount": 10,
+          "sold_flag": false,
+          "seller_id": 113
+        },
+        {
+          "product_id": 14,
+          "product_name": "Electric Kettle",
+          "product_description": "Quick-boil electric kettle with automatic shutoff.",
+          "product_image": "https://example.com/images/kettle.jpg",
+          "product_category": "Kitchen",
+          "price": 39.99,
+          "discount": 15,
+          "sold_flag": true,
+          "seller_id": 114
+        },
+        {
+          "product_id": 15,
+          "product_name": "Smart LED Bulb",
+          "product_description": "Color-changing smart LED bulb with app control.",
+          "product_image": "https://example.com/images/bulb.jpg",
+          "product_category": "Home",
+          "price": 12.99,
+          "discount": 0,
+          "sold_flag": false,
+          "seller_id": 115
+        },
+        {
+          "product_id": 16,
+          "product_name": "Bluetooth Keyboard",
+          "product_description": "Compact Bluetooth keyboard for tablets and phones.",
+          "product_image": "https://example.com/images/keyboard.jpg",
+          "product_category": "Electronics",
+          "price": 29.99,
+          "discount": 10,
+          "sold_flag": true,
+          "seller_id": 116
+        },
+        {
+          "product_id": 17,
+          "product_name": "Desk Organizer",
+          "product_description": "Multi-functional desk organizer with drawers.",
+          "product_image": "https://example.com/images/organizer.jpg",
+          "product_category": "Home",
+          "price": 14.99,
+          "discount": 5,
+          "sold_flag": false,
+          "seller_id": 117
+        },
+        {
+          "product_id": 18,
+          "product_name": "Smartwatch",
+          "product_description": "Feature-packed smartwatch with fitness tracking.",
+          "product_image": "https://example.com/images/smartwatch.jpg",
+          "product_category": "Electronics",
+          "price": 129.99,
+          "discount": 20,
+          "sold_flag": true,
+          "seller_id": 118
+        },
+        {
+          "product_id": 19,
+          "product_name": "Digital Camera",
+          "product_description": "Compact digital camera with 20MP resolution.",
+          "product_image": "https://example.com/images/camera.jpg",
+          "product_category": "Electronics",
+          "price": 299.99,
+          "discount": 25,
+          "sold_flag": false,
+          "seller_id": 119
+        },
+        {
+          "product_id": 20,
+          "product_name": "Electric Toothbrush",
+          "product_description": "Rechargeable electric toothbrush with multiple modes.",
+          "product_image": "https://example.com/images/toothbrush.jpg",
+          "product_category": "Health",
+          "price": 49.99,
+          "discount": 10,
+          "sold_flag": true,
+          "seller_id": 120
+        }
+      ]
+      
+}
+  
