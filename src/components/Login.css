@@ -1,5 +1,11 @@
-.whole{
-    
+.error_text{
+  color: rgb(255, 255, 255);
+  position: relative;
+  border: 1px solid red;
+  width: 160px;
+  border-radius: 15px;
+  background-color: rgb(197, 4, 4);
+  transition: 0.4s ease-in-out;
 }
 .form_main {
     width: 280px;
